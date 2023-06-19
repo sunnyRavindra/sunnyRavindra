@@ -1,4 +1,4 @@
-### Current Designation - Devops Applications Automation Team Lead
+### Current Designation - DevOps Applications Automation Team Lead
 ### Skills
 Here are some ideas to get you started:
 
