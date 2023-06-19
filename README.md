@@ -1,19 +1,12 @@
 ### Designation - DevOps Applications Automation Team Lead
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-#### Skills
-
-Below is a list of technologies and programming languages I know, along with my skill proficiency for each:
+- 🔭 I’m currently working on My Devops Large Enterprise Pratical guide
+- 🌱 I’m currently learning CI/CD in Test Automation Frameworks
+- 👯 I’m looking to collaborate on DevOps projects
+- 🤔 I’m looking for help with open source Devops Projects 
+- 💬 Ask me about Devops
+- 📫 How to reach me: sunnyravbusiness@gmail.com
+- ⚡ Fun fact: I like Squats.
 
 ## Technologies
 
@@ -31,5 +24,5 @@ Below is a list of technologies and programming languages I know, along with my 
 - Language W: ⭐⭐⭐⭐⭐⭐ (6/10)
 - Language V: ⭐⭐⭐⭐⭐ (5/10)
 
-Please note that the proficiency levels are subjective and represent my self-assessment for each skill. The ratings are based on my experience and level of comfort working with these technologies and programming languages.
+## Stack
 
