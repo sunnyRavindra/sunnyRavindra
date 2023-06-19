@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
-**sunnyRavindra/sunnyRavindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+# Current Designation - Devops Applications Automation Team Lead
+# Skills
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,9 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-# Skills
+
 
 Below is a list of technologies and programming languages I know, along with my skill proficiency for each:
 
