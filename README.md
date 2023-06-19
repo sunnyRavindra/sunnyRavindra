@@ -1,5 +1,5 @@
-### Current Designation - DevOps Applications Automation Team Lead
-### Skills
+### Designation - DevOps Applications Automation Team Lead
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+#### Skills
 
 Below is a list of technologies and programming languages I know, along with my skill proficiency for each:
 
