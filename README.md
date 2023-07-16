@@ -18,5 +18,4 @@
 
 ### Certification 
 - AWS Solutions Architect Asociate
-- Still not final Version
 
