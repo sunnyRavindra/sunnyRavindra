@@ -19,4 +19,5 @@
 ### Certification 
 - AWS Solutions Architect Asociate
 - Lean Management
+- Code Banking
 
