@@ -14,14 +14,14 @@ Experienced and Dynamic Lead Test Automation and DevOps Engineer with a proven t
 *   ⚡  Never Skip Leg Day
 
 
-### Skills 
+## Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
 </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
                     
-### Socials
+## Socials
 <p align="left">
 <a href="https://www.dev.to/sunnyravindra" target="_blank" rel="noreferrer">
 <picture>
@@ -53,7 +53,7 @@ Experienced and Dynamic Lead Test Automation and DevOps Engineer with a proven t
 </a>
 </p>
 
-### Badges
+## Badges
 </br>
 <a href="http://www.github.com/sunnyravindra">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyravindra&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" />
