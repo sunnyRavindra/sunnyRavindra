@@ -27,7 +27,7 @@
 
 <p align="center">
   <br>
-  <h3>Contact Me</h3>h3>
+  <h3>Contact Me</h3>
 <a href="https://dev.to/dev.to/sunnyravindra" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/sunnyravindra" height="30" width="40" /></a>
 <a href="https://twitter.com/sunnyravin5017" target="blank">
