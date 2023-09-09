@@ -44,6 +44,4 @@ CodePipeline and Infrastructure as Code (IaC), with expertise in containerizatio
 <a href="https://linkedin.com/in/sunnybharne" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnybharne" height="30" width="40" /></a>
 </p>
-<p><a href="https://www.buymeacoffee.com/sunnyrav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sunnyrav" /></a></p><br><br>
-
 
