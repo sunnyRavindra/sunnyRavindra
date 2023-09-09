@@ -25,9 +25,12 @@
 
 
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyravindra&show_icons=true&locale=en" alt="sunnyravindra" /></p>
+
+</br>
 <p align="center">
   <br>
-  <h3>Contact Me</h3>
+  <h3>Contact Me:</h3>
 <a href="https://dev.to/dev.to/sunnyravindra" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/sunnyravindra" height="30" width="40" /></a>
 <a href="https://twitter.com/sunnyravin5017" target="blank">
@@ -35,15 +38,6 @@
 <a href="https://linkedin.com/in/sunnybharne" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunnybharne" height="30" width="40" /></a>
 </p>
-
-
-
 <p><a href="https://www.buymeacoffee.com/sunnyrav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sunnyrav" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnyravindra&show_icons=true&locale=en&layout=compact" alt="sunnyravindra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyravindra&show_icons=true&locale=en" alt="sunnyravindra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyravindra&" alt="sunnyravindra" /></p>
 
 
