@@ -52,6 +52,10 @@ Experienced and Dynamic Lead Test Automation and DevOps Engineer with a proven t
                     
   ### Badges
   <b>My GitHub Stats</b>
-  <a href="http://www.github.com/sunnyravindra"><img src="https://github-readme-stats.vercel.app/api?username=sunnyravindra&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sunnyravindra's GitHub stats" /></a><a
+  
+  <a href="http://www.github.com/sunnyravindra">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnyravindra&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sunnyravindra's GitHub stats" /></a><a
                       href="http://www.github.com/sunnyravindra"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyravindra&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a><a href="https://github.com/sunnyravindra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyravindra&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sunnyrav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=sunnyravindra&stroke=0891b2&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a><a href="https://github.com/sunnyravindra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyravindra&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Support Me
+<ul style="list-style-type: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sunnyrav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
