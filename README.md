@@ -1,4 +1,4 @@
-<h1 align="center">I'm Sunny Ravindra Bharne</h1>
+<h1 align="center">Sunny Ravindra Bharne</h1>
 <h3 align="center">Test Automation and Devops Technical Lead</h3>
 <p align="left">
 <a href="https://dev.to/dev.to/sunnyravindra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/sunnyravindra" height="30" width="40" /></a>
