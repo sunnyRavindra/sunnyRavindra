@@ -3,7 +3,7 @@
 
 
 <p>
-  Experienced and Dynamic Lead Test Automation and DevOps Engineer with a proven track record in Selenium Test Automation Framework Development, API Testing
+      Experienced and Dynamic Lead Test Automation and DevOps Engineer with a proven track record in Selenium Test Automation Framework Development, API Testing
 and Automation. Proficient in driving DevOps transformations using tools like AWS
 CodePipeline and Infrastructure as Code (IaC), with expertise in containerization through Docker.
 </p>
