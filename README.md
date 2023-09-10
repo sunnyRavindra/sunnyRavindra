@@ -2,7 +2,7 @@
 
 <p>I'm Sunny, Test Automation and Devops Technical Lead, currently living in <b>Pune , India </b>.</p>
 
-### Skills
+## Skills
 
 
 #### `Test Automation`
