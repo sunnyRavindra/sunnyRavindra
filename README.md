@@ -6,6 +6,7 @@
 
 ![Banner](./public/Banner.png)
 
+![TestAutomation](./public/TestAutomation.png)
 
 ### Skills
 #### `Test Automation`
