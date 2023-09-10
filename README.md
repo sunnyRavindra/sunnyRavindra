@@ -20,11 +20,11 @@
 | Code Commit | 
 | Code Build |  
 
-LinkedIn -> 
-
-<br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyravindra&show_icons=true&locale=en" alt="sunnyravindra" /></p>
-</br>
+#### Contact
+**LinkedIn** - `https://www.linkedin.com/in/sunnybharne` <br>
+**Github** - `https://github.com/sunnyRavindra/sunnyRavindra` <br>
+**Website** - `https://www.botcat.org` <br>
+**Email** - `sunny.bharne.devops@gmail.com`
 
 
 
