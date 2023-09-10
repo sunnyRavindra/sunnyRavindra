@@ -3,13 +3,11 @@
 <p>I'm Sunny, Test Automation and Devops Technical Lead, currently living in <b>Pune , India </b>.</p>
 
 ## Skills
-
-
 #### `Test Automation`
 | Selenium | TestNG | Java | Cucumber | Playwright |
 | -- | -- | -- | -- | -- |
 | [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
-| Page | Annotations | 
+| Page Object Model (POM) | Annotations | 
 | Extent Reports | Data Provider |  
 |  | Parametrization |
 
@@ -20,11 +18,11 @@
 | Code Commit | 
 | Code Build |  
 
-#### `Contact`
-**LinkedIn** - `https://www.linkedin.com/in/sunnybharne` <br>
-**Github** - `https://github.com/sunnyRavindra/sunnyRavindra` <br>
-**Website** - `https://www.botcat.org` <br>
-**Email** - `sunny.bharne.devops@gmail.com`
+## Contacts 
+[LinkedIn](https://www.linkedin.com/in/sunnybharne) <br>
+[Github](https://github.com/sunnyRavindra/sunnyRavindra) <br>
+[Website](https://www.botcat.org) <br>
+[Email](sunny.bharne.devops@gmail.com)
 
 
 
