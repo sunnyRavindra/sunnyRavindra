@@ -5,22 +5,22 @@
 ### Skills
 
 
-#### Test Automation
-| Selenium | TestNG | Java | Cucumber | Playwright | Devops | Docker | Jenkins |
-| -- | -- | -- | -- | -- | -- | -- | -- |
+#### `Test Automation`
+| Selenium | TestNG | Java | Cucumber | Playwright |
+| -- | -- | -- | -- | -- |
 | [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
 | Page | Annotations | 
 | Extent Reports | Data Provider |  
 |  | Parametrization |
 
-#### Devops
-| AWS | Docker | 
-| -- | -- |
+#### `Devops`
+| AWS | Docker | Jenkins | 
+| -- | -- | -- |
 | CDK IAC (Infrastructure as code) | Test Dockerization |
 | Code Commit | 
 | Code Build |  
 
-#### Contact
+#### `Contact`
 **LinkedIn** - `https://www.linkedin.com/in/sunnybharne` <br>
 **Github** - `https://github.com/sunnyRavindra/sunnyRavindra` <br>
 **Website** - `https://www.botcat.org` <br>
