@@ -1,12 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Moikka </h1>
 
-
-
 <p>I'm Sunny, Test Automation and Devops Technical Lead, currently living in <b>Pune , India </b>.</p>
 
 ![Banner](./public/Banner.png)
 
-***
+
 ### Skills
 #### `Test Automation`
 | Selenium | TestNG | Java | Cucumber | Playwright |
