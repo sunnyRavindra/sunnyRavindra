@@ -1,33 +1,29 @@
-<h1 align="center">Sunny Ravindra Bharne</h1>
-<h3 align="center">Test Automation and Devops Technical Lead</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Moikka </h1>
 
-<p>
-      Experienced and Dynamic Lead Test Automation and DevOps Engineer with a proven track record in Selenium Test Automation Framework Development, API Testing
-and Automation. Proficient in driving DevOps transformations using tools like AWS
-CodePipeline and Infrastructure as Code (IaC), with expertise in containerization through Docker.
-</p>
+<p>I'm Sunny, Test Automation and Devops Technical Lead, currently living in <b>Pune , India </b>.</p>
 
 ### Skills
-##### Selenium: ⭐ ⭐ ⭐ ⭐ ⭐
-- [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework)
-- Extent Reports Integration with Selenium
-##### Java: ⭐ ⭐ ⭐ ⭐ ⭐
-- Core Java
-##### TestNG: ⭐ ⭐ ⭐ ⭐ ⭐ ⭐
-- Annotations
-- Parallel Executions
-- Parametrization
-- Data provider
-##### Playwright: ⭐
-- https://playwright.dev/  
-##### Cucumber: ⭐ ⭐ ⭐ ⭐
-##### Docker: ⭐ ⭐ ⭐ ⭐ 
-##### Jenkins: ⭐ ⭐ ⭐ ⭐ 
+
+
+#### Test Automation
+| Selenium | TestNG | Java | Cucumber | Playwright | Devops | Docker | Jenkins |
+| -- | -- | -- | -- | -- | -- | -- | -- |
+| [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
+| Page | Annotations | 
+| Extent Reports | Data Provider |  
+|  | Parametrization |
+
+#### Devops
+| AWS | Docker | 
+| -- | -- |
+| CDK IAC (Infrastructure as code) | Test Dockerization |
+| Code Commit | 
+| Code Build |  
+
+LinkedIn -> 
 
 <br>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnyravindra&show_icons=true&locale=en" alt="sunnyravindra" /></p>
-
 </br>
 
 
