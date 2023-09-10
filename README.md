@@ -8,8 +8,8 @@
 
 
 ### Skills
-![TestAutomation](./public/TestAutomation.svg)
-| ![Selenium](./public/Selenium.svg) | TestNG | Java | Cucumber | Playwright |
+#### `Test Automation`
+| ![Selenium](./public/Selenium.svg) | ![TestNG](./public/TestNG.svg) | ![Java](./public/Java.svg) | ![Cucumber](./public/Cucumber.svg) | ![Playwright](./public/Playwright.svg) |
 | -- | -- | -- | -- | -- |
 | [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
 | Page Object Model (POM) | Annotations | 
@@ -17,7 +17,7 @@
 |  | Parametrization |
 
 #### `Devops`
-| AWS | Docker | Jenkins | 
+| ![AWS](./public/AWS.svg) | ![Docker](./public/Docker.svg) | ![Jenkins](./public/Jenkins.svg) | 
 | -- | -- | -- |
 | CDK IAC (Infrastructure as code) | Test Dockerization |
 | Code Commit | 
