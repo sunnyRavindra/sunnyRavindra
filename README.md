@@ -1,5 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Moikka </h1>
 
+![TestAutomationAndDevopsTechnicalLead](./public/TestAutomationLead.png)
+
 <p>     I'm Sunny, Test Automation and Devops Technical Lead, currently living in <b>Pune , India </b>.</p>
 <p>I am a seasoned IT professional with extensive experience in Test Automation and DevOps transformation, and team leadership. I have managed teams and ensured the smooth functioning of multiple Selenium Frameworks and AWS Devops pipelines while providing automation support to several daily tasks as well as test Automation.</b></p>
 
