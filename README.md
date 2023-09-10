@@ -10,7 +10,7 @@
 
 ### Skills
 #### `Test Automation`
-| ![TestAutomation](./public/TestAutomation.png) Selenium | TestNG | Java | Cucumber | Playwright |
+| ![Selenium](./public/Selenium.png) Selenium | TestNG | Java | Cucumber | Playwright |
 | -- | -- | -- | -- | -- |
 | [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
 | Page Object Model (POM) | Annotations | 
