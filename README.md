@@ -7,6 +7,7 @@ and Automation. Proficient in driving DevOps transformations using tools like AW
 CodePipeline and Infrastructure as Code (IaC), with expertise in containerization through Docker.
 </p>
 
+### Skills
 ##### Selenium: ⭐ ⭐ ⭐ ⭐ ⭐
 - [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework)
 - Extent Reports Integration with Selenium
