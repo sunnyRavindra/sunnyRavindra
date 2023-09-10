@@ -2,7 +2,8 @@
 
 <p>I'm Sunny, Test Automation and Devops Technical Lead, currently living in <b>Pune , India </b>.</p>
 
-## Skills
+***
+### Skills
 #### `Test Automation`
 | Selenium | TestNG | Java | Cucumber | Playwright |
 | -- | -- | -- | -- | -- |
@@ -18,12 +19,7 @@
 | Code Commit | 
 | Code Build |  
 
-## Contacts 
-[LinkedIn](https://www.linkedin.com/in/sunnybharne) <br>
-[Github](https://github.com/sunnyRavindra/sunnyRavindra) <br>
-[Website](https://www.botcat.org) <br>
-[Email](sunny.bharne.devops@gmail.com)
-
-
+***
+| [**`LinkedIn`**](https://www.linkedin.com/in/sunnybharne)| [**`Github`**](https://github.com/sunnyRavindra/sunnyRavindra) | [**`Website`**](https://www.botcat.org) | [**`Email`**](sunny.bharne.devops@gmail.com) |
 
 
