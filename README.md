@@ -7,7 +7,6 @@
 ![Banner](./public/Banner.svg)
 
 
-### Skills
 #### `Test Automation`
 | ![Selenium](./public/Selenium.svg) | ![TestNG](./public/TestNG.svg) | ![Java](./public/Java.svg) | ![Cucumber](./public/Cucumber.svg) | ![Playwright](./public/Playwright.svg) |
 | -- | -- | -- | -- | -- |
