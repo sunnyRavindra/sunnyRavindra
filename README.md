@@ -23,7 +23,8 @@
 | Code Build |  
 
 ***
-| [![AWS](./public/AWS.svg)](https://www.linkedin.com/in/sunnybharne)| [**`Github`**](https://github.com/sunnyRavindra/sunnyRavindra) | [**`Website`**](https://www.botcat.org) | [**`Email`**](sunny.bharne.devops@gmail.com) |
-| [**`LinkedIn`**](https://www.linkedin.com/in/sunnybharne)| [**`Github`**](https://github.com/sunnyRavindra/sunnyRavindra) | [**`Website`**](https://www.botcat.org) | [**`Email`**](sunny.bharne.devops@gmail.com) |
-
+[![LinkedIn](./public/Linkedin.svg)](https://www.linkedin.com/in/sunnybharne) 
+[![Github](./public/Github.svg)](https://github.com/sunnyRavindra/sunnyRavindra)  
+[![Website](./public/Website.svg)](https://www.botcat.org)  
+[![Email](./public/Email.svg)](sunny.bharne.devops@gmail.com) 
 
