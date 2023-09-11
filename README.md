@@ -22,9 +22,6 @@
 | Code Commit | 
 | Code Build |  
 
-***
-[![LinkedIn](./public/Linkedin.svg)](https://www.linkedin.com/in/sunnybharne) 
-[![Github](./public/Github.svg)](https://github.com/sunnyRavindra/sunnyRavindra)  
-[![Website](./public/Website.svg)](https://www.botcat.org)  
-[![Email](./public/Email.svg)](sunny.bharne.devops@gmail.com) 
+#### `Contact Me`
+[![LinkedIn](./public/Linkedin.svg)](https://www.linkedin.com/in/sunnybharne) [![Github](./public/Github.svg)](https://github.com/sunnyRavindra/sunnyRavindra) [![Website](./public/Website.svg)](https://www.botcat.org)[![Email](./public/Email.svg)](sunny.bharne.devops@gmail.com) 
 
