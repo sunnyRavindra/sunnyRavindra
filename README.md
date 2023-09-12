@@ -9,7 +9,7 @@
 
 #### `Test Automation`
 
-![Selenium](./public/Selenium.svg) 
+![Selenium](./public/Selenium.svg) ![TestNG](./public/TestNG.svg) ![Java](./public/Java.svg) ![Cucumber](./public/Cucumber.svg) ![Playwright](./public/Playwright.svg)
    
 - [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) 
 - Page Object Model (POM)
