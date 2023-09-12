@@ -23,30 +23,11 @@
 #### `Devops`
 
 ![AWS](./public/AWS.svg) ![Docker](./public/Docker.svg) ![Jenkins](./public/Jenkins.svg)  
+
 - CDK IAC (Infrastructure as code)
 - Code Commit
 - Code Build
 - Test Dockerization
-
-
-
-
-
-
-
-| ![Selenium](./public/Selenium.svg) | ![TestNG](./public/TestNG.svg) | ![Java](./public/Java.svg) | ![Cucumber](./public/Cucumber.svg) | ![Playwright](./public/Playwright.svg) |
-| -- | -- | -- | -- | -- |
-| [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
-| Page Object Model (POM) | Annotations | 
-| Extent Reports | Data Provider |  
-|  | Parametrization |
-
-#### `Devops`
-| ![AWS](./public/AWS.svg) | ![Docker](./public/Docker.svg) | ![Jenkins](./public/Jenkins.svg) | 
-| -- | -- | -- |
-| CDK IAC (Infrastructure as code) | Test Dockerization |
-| Code Commit | 
-| Code Build |  
 
 <h1></h1>
 
