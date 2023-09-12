@@ -8,6 +8,14 @@
 
 
 #### `Test Automation`
+
+
+![Selenium](./public/Selenium.svg) 
+   [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) 
+
+
+
+
 | ![Selenium](./public/Selenium.svg) | ![TestNG](./public/TestNG.svg) | ![Java](./public/Java.svg) | ![Cucumber](./public/Cucumber.svg) | ![Playwright](./public/Playwright.svg) |
 | -- | -- | -- | -- | -- |
 | [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) | Parallel Execution | Core Java | Gherkins |
