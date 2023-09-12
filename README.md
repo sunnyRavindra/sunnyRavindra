@@ -9,44 +9,25 @@
 
 #### `Test Automation`
 
-![Selenium](./public/Selenium.svg) 
-![TestNG](./public/TestNG.svg) ![Java](./public/Java.svg) ![Cucumber](./public/Cucumber.svg) ![Playwright](./public/Playwright.svg)
+![Selenium](./public/Selenium.svg) ![TestNG](./public/TestNG.svg) ![Java](./public/Java.svg) ![Cucumber](./public/Cucumber.svg) ![Playwright](./public/Playwright.svg)
    
 - [Data Driven Framework](https://github.com/sunnyRavindra/DataDrivenFramework) 
 - Page Object Model (POM)
 - Extent Reports
-
-![TestNG](./public/TestNG.svg)
-
 - Annotations 
 - Data Provider
 - Parametrization
-
-![Java](./public/Java.svg)
-
 - Core Java
-
-![Cucumber](./public/Cucumber.svg)
-
-- Gherkins
-
-![Playwright](./public/Playwright.svg)
-
 - Gherkins
 
 #### `Devops`
 
-![AWS](./public/AWS.svg)    
-
+![AWS](./public/AWS.svg) ![Docker](./public/Docker.svg) ![Jenkins](./public/Jenkins.svg)  
 - CDK IAC (Infrastructure as code)
 - Code Commit
 - Code Build
-
-![Docker](./public/Docker.svg) 
-
 - Test Dockerization
 
-![Jenkins](./public/Jenkins.svg) | 
 
 
 
